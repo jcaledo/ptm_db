@@ -13,4 +13,5 @@ Data related to the ptm project
 10. sni_db.Rda: S-nitrosylation DB 2019.
 11. su_db.Rda: Sumoylation DB 2019.
 12. ub_db.Rda: Ubiquitination DB 2019.
+13. SerSites.Rda: Dataset of serine residues from the human phosphoproteome.
 
